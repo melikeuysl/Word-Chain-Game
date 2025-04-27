@@ -1,0 +1,23 @@
+
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Game from './components/Game';
+import Rules from './components/Rules';
+import GameInfo from './components/GameInfo';
+
+function App() {
+  return (
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Navigate to="/game" />} />
+        <Route path="/game" element={<Game />} />
+        <Route path="/rules" element={<Rules />} />
+        <Route path="/about" element={<GameInfo />} />
+      </Routes>
+    </Router>
+  );
+}
+
+export default App;

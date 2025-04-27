@@ -1,0 +1,13 @@
+.container h2, .container h3 {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .container ul {
+    padding-left: 20px;
+  }
+  
+  .container li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+  }
+  
