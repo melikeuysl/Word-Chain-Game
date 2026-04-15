@@ -1,4 +1,5 @@
 🔤 Word Chain Game
+🕹️ Play it here: [https://melikeuysl.github.io/Word-Chain-Game/#/game](https://melikeuysl.github.io/Word-Chain-Game/#/game)
 
 - Word Chain Game is an interactive and educational web game where players build a chain of English words. Each new word must start with the last letter of the previous word, creating a continuous word chain 🔗.
 
@@ -25,4 +26,4 @@
 - 🔁 Restart option to instantly play again
 - ⚡ Fast and smooth gameplay experience
 
-🕹️ Play it here: [https://melikeuysl.github.io/Word-Chain-Game/#/game](https://melikeuysl.github.io/Word-Chain-Game/#/game)
+
